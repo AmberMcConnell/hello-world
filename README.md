@@ -1,2 +1,6 @@
 # hello-world
-This is my first project/test using Github. It is just a simple Hello-World. 
+
+
+Hi Everyone!
+
+My name is Amber, and I am completely new to this. 
